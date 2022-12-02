@@ -412,7 +412,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #363b42;
 }
 
 .overly {
@@ -1964,3 +1964,11 @@ blockquote {
   margin: 0;
 }
 /*# sourceMappingURL=style.css.map */
+
+
+#homePageBottomSection{
+  color: rgb(188, 193, 197);
+}
+#homeBottomP{
+  color: rgb(247, 234, 234);
+}
